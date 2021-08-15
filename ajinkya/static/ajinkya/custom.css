@@ -1,0 +1,30 @@
+
+body{
+  background-color: black;
+  /*background: url(AB4.gif) no-repeat center center fixed;*/
+
+  background-size: cover, contain;
+  background-position: center ;
+}
+
+h1{
+  text-align: center;
+}
+
+img {
+  margin-top: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  font-size: 25px;
+  font-family: 'Megrim', cursive;
+}
+
+button{
+
+  text-align: center;
+
+}
